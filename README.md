@@ -2,7 +2,6 @@
 
 # A simple project to give ideas about web3 smart contracts.
 
-
 import Map "mo:base/HashMap";
 import Hash "mo:base/Hash";
 import Nat "mo:base/Nat";
